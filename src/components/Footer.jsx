@@ -22,6 +22,7 @@ const Footer = () => {
                 </a>
               ))}
             </ul>
+            <h1>dasjhdjahsdjkahsd</h1>
           </div>
         </div>
       </footer>
